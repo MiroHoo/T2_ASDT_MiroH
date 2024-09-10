@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 import random as rand
-# jotta voit käyttää matplotlibbiä näppärästi tkinterissä...
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.pyplot as plt
